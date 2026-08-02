@@ -115,9 +115,6 @@
     "prettier": "^3.9.6",
     "typescript": "^5.9.3"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": ["core-js", "es5-ext"]
-  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
